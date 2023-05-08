@@ -1,0 +1,23 @@
+// ENVIOS
+.logo-envio{
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 4rem;
+    & img{
+    width: 6rem;
+}
+}
+.envio-title{
+    margin: 1.5rem;
+    padding-left: 2rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+.info{
+    margin-block: 10px;
+}
+
+.info-imp{
+    font-weight: bold;
+}
